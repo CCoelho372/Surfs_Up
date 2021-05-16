@@ -7,9 +7,7 @@ The purpose of this challenge was to determine what the temperature trends were 
 
 #### Three Takeaways from the Analysis
 
-![alt text](https://github.com/CCoelho372/Surfs_Up/blob/main/June%20Temperatures.PNG)
-
-![alt text](https://github.com/CCoelho372/Surfs_Up/blob/main/December%20Temperatures.PNG)
+![alt text](https://github.com/CCoelho372/Surfs_Up/blob/main/June%20Temperatures.PNG) ![alt text](https://github.com/CCoelho372/Surfs_Up/blob/main/December%20Temperatures.PNG)
 
 There are over 1500 data points retrieved from both the month of June and July. Thus, there are enough data points to have increased confidence in the description of the statistics.
 
