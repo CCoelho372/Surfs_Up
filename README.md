@@ -5,7 +5,7 @@ The purpose of this challenge was to determine what the temperature trends were 
 
 ## Results
 
-####Three Takeaways from the Analysis
+#### Three Takeaways from the Analysis
 
 There are over 1500 data points retrieved from both the month of June and July. Thus, there are enough data points to have increased confidence in the description of the statistics.
 
